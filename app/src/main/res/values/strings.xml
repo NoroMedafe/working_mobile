@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">working</string>
+
+    <string name="buttonNew">New</string>
+    <string name="buttonEdit">Edit</string>
+    <string name="buttonDelete">Delete</string>
+
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
+    <string name="buttonSave">Save</string>
+    <string name="buttonCancel">Cancel</string>
+
+</resources>
